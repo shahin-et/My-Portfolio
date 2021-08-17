@@ -15,4 +15,8 @@ https://assetstore.unity.com/packages/3d/props/weapons/low-poly-fps-pack-free-sa
 
 https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676
 
+https://seansleblanc.itch.io/better-minimal-webgl-template
+
+https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232
+
 I did this project with Unity3d :).
